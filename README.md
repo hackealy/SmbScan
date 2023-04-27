@@ -1,1 +1,1 @@
-# SmbScan
+Neste exemplo, usamos o Nmap para varrer a rede em busca de sistemas com as portas 139 e 445 abertas, e usamos o script "smb-vuln*" para identificar possíveis vulnerabilidades SMB. Em seguida, analisamos o arquivo de resultados do Nmap e identificamos os sistemas vulneráveis. Por fim, executamos o exploit EternalBlue do Metasploit em cada um dos sistemas vulneráveis identificados.
